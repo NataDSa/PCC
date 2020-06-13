@@ -36,7 +36,7 @@ class Home extends React.Component {
 				
 				<div className="owl-item">
 					<div className="home_slider_background"> 
-                    <img src="images/home_background_1.jpg" alt=""/> </div>
+                    <div className="home_slider_background" style={{ backgroundImage: "url(images/home_background_1.jpg)"}}></div>
 					<div className="home_content">
 						<div className="container">
 							<div className="row">
@@ -58,7 +58,7 @@ class Home extends React.Component {
 
 
 				<div className="owl-item">
-					<div className="home_slider_background" style="background-image:url(images/home_background_1.jpg)"></div>
+					<div className="home_slider_background" style={{ backgroundImage: "url(images/home_background_1.jpg)"}}></div>
 					<div className="home_content">
 						<div className="container">
 							<div className="row">
@@ -79,7 +79,7 @@ class Home extends React.Component {
 				</div>
 
 				<div className="owl-item">
-					<div className="home_slider_background" style="background-image:url(images/home_background_1.jpg)"></div>
+					<div className="home_slider_background" style={{ backgroundImage: "url(images/home_background_1.jpg)"}}></div>
 					<div className="home_content">
 						<div className="container">
 							<div className="row">
@@ -103,6 +103,7 @@ class Home extends React.Component {
 			<div className="home_slider_progress"></div>
 		</div>
 	</div>
+    </div>
     </div>
         );
     }
