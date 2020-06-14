@@ -13,9 +13,7 @@ class Header extends React.Component {
 				<div className="row">
 					<div className="col">
 						<div className="top_bar_content d-flex flex-row align-items-center justify-content-start">
-							<div className="top_bar_item"><a href="#">FAQ</a></div>
-							<div className="top_bar_item"><a href="#">Request an Appointment</a></div>
-							<div className="emergencies  d-flex flex-row align-items-center justify-content-start ml-auto">For Emergencies: +563 47558 623</div>
+							<div className="top_bar_item"><a href="#">Записаться на приём</a></div>
 						</div>
 
 					</div>
@@ -30,11 +28,10 @@ class Header extends React.Component {
 						<div className="header_content d-flex flex-row align-items-center justify-content-start">
 							<nav className="main_nav ml-auto">
 								<ul>
-									<li><a href="index.html">Home</a></li>
-									<li><a href="about.html">About us</a></li>
-									<li><a href="services.html">Services</a></li>
-									<li><a href="news.html">News</a></li>
-									<li><a href="contact.html">Contact</a></li>
+									<li><a href="index.html">Главная</a></li>
+									<li><a href="about.html">О нас</a></li>
+									<li><a href="services.html">Услуги</a></li>
+									<li><a href="contact.html">Контакты</a></li>
 								</ul>
 							</nav>
 							<div className="hamburger ml-auto"><i className="fa fa-bars" aria-hidden="true"></i></div>

@@ -1,3 +1,4 @@
+  
 <!DOCTYPE html>
 <!DOCTYPE html>
 <html lang="en">
@@ -30,4 +31,4 @@
 <script src="{{ asset('js/custom.js') }}" defer></script>
 
 </body>
-</html>    
+</html> 
