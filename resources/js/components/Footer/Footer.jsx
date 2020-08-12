@@ -19,8 +19,8 @@ class Footer extends React.Component {
                                 </div>
                             </div>
 
-                            <div class="col-lg-4 footer_col">
-                                <div class="footer_links footer_column">
+                            <div className="col-lg-4 footer_col">
+                                <div className="footer_links footer_column">
                                     <ul>
                                         <li><a href="#">Услуги</a></li>
                                         <li><a href="#">О нас</a></li>

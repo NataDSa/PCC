@@ -4,13 +4,14 @@ import About from './About';
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer';
 import Services from '../Services/Services';
-import { BrowserRouter, Route } from "react-router-dom";
+import { BrowserHistory, BrowserRouter, Route } from "react-router-dom";
 
 class Index extends React.Component {
 
     render() {
         console.log(document.location.href)
         return (
+            
             <BrowserRouter>
                 <Header />
                 <Route
@@ -18,11 +19,11 @@ class Index extends React.Component {
                     component={props => <Home {...props} />}
                 />
                 <Route
-                    path='/about' exact
+                    path='/About' exact
                     component={props => <About {...props} />}
                 />
                 <Route
-                    path='/services' exact
+                    path='/Services' exact
                     component={props => <Services {...props} />}
                 />
                 <Footer />
