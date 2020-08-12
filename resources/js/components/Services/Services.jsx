@@ -9,12 +9,12 @@ class Services extends React.Component {
                     <div className="container">
                         <div className="row">
                             <div className="col">
-                                <div cclassNamelass="section_title"><h2>Наши услуги</h2></div>
+                                <div className="section_title"><h2>Наши услуги</h2></div>
                             </div>
                         </div>
                         <div className="row services_row">
                             <div className="col-lg-4 col-md-6 service_col">
-                                <a href="services.html">
+                                <a href="Services.jsx">
                                     <div className="service text-center trans_200">
                                         <div className="service_icon"><img className="svg" src="images/service_1.svg" alt="" /></div>
                                         <div className="service_title trans_200">Полное обследование</div>
@@ -26,7 +26,7 @@ class Services extends React.Component {
                             </div>
 
                             <div className="col-lg-4 col-md-6 service_col">
-                                <a href="services.html">
+                                <a href="Services.jsx">
                                     <div className="service text-center trans_200">
                                         <div className="service_icon"><img className="svg" src="images/service_2.svg" alt="" /></div>
                                         <div className="service_title trans_200">Скрининговое обследование</div>
@@ -38,7 +38,7 @@ class Services extends React.Component {
                             </div>
 
                             <div className="col-lg-4 col-md-6 service_col">
-                                <a href="services.html">
+                                <a href="Services.jsx">
                                     <div className="service text-center trans_200">
                                         <div className="service_icon"><img className="svg" src="images/service_3.svg" alt="" /></div>
                                         <div className="service_title trans_200">МРТ</div>
@@ -50,7 +50,7 @@ class Services extends React.Component {
                             </div>
 
                             <div className="col-lg-4 col-md-6 service_col">
-                                <a href="services.html">
+                                <a href="Services.jsx">
                                     <div className="service text-center trans_200">
                                         <div className="service_icon"><img className="svg" src="images/service_4.svg" alt="" /></div>
                                         <div className="service_title trans_200">Лечение зубов</div>
@@ -62,7 +62,7 @@ class Services extends React.Component {
                             </div>
 
                             <div className="col-lg-4 col-md-6 service_col">
-                                <a href="services.html">
+                                <a href="Services.jsx">
                                     <div className="service text-center trans_200">
                                         <div className="service_icon"><img className="svg" src="images/service_5.svg" alt="" /></div>
                                         <div className="service_title trans_200">Неонатология</div>
@@ -74,7 +74,7 @@ class Services extends React.Component {
                             </div>
 
                             <div className="col-lg-4 col-md-6 service_col">
-                                <a href="services.html">
+                                <a href="Services.jsx">
                                     <div className="service text-center trans_200">
                                         <div className="service_icon"><img className="svg" src="images/service_6.svg" alt="" /></div>
                                         <div className="service_title trans_200">Анализы</div>

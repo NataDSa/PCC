@@ -1,24 +1,33 @@
 import React from 'react';
-import Header from '../Header/Header';
 import Home from './Home';
 import About from './About';
-import Services from '../Services/Services';
+import Header from '../Header/Header';
 import Footer from '../Footer/Footer';
-
+import Services from '../Services/Services';
+import { BrowserRouter, Route } from "react-router-dom";
 
 class Index extends React.Component {
 
     render() {
+        console.log(document.location.href)
         return (
-            <div>
+            <BrowserRouter>
                 <Header />
-                <Home />
-                <About />
-                <Services />
+                <Route
+                    path='/' exact
+                    component={props => <Home {...props} />}
+                />
+                <Route
+                    path='/about' exact
+                    component={props => <About {...props} />}
+                />
+                <Route
+                    path='/services' exact
+                    component={props => <Services {...props} />}
+                />
                 <Footer />
-            </div>
+            </BrowserRouter>
         );
     }
 }
-
 export default Index;

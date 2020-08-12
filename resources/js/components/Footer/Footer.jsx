@@ -17,16 +17,16 @@ class Footer extends React.Component {
                                     </ul>
                                 </div>
                             </div>
-                            
+
                             <div class="col-lg-4 footer_col">
-						<div class="footer_links footer_column">
-							<ul>
-								<li><a href="#">Услуги</a></li>
-								<li><a href="#">О нас</a></li>
-								<li><a href="#">Контакты</a></li>
-							</ul>
-						</div>
-					</div>
+                                <div class="footer_links footer_column">
+                                    <ul>
+                                        <li><a href="#">Услуги</a></li>
+                                        <li><a href="#">О нас</a></li>
+                                        <li><a href="#">Контакты</a></li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
