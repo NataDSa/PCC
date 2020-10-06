@@ -19,11 +19,11 @@ class Index extends React.Component {
                     component={props => <Home {...props} />}
                 />
                 <Route
-                    path='/About' exact
+                    path='/about' exact
                     component={props => <About {...props} />}
                 />
                 <Route
-                    path='/Services' exact
+                    path='/services' exact
                     component={props => <Services {...props} />}
                 />
                 <Footer />

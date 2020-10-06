@@ -70307,13 +70307,13 @@ var Index = /*#__PURE__*/function (_React$Component) {
           return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Home__WEBPACK_IMPORTED_MODULE_1__["default"], props);
         }
       }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_6__["Route"], {
-        path: "/About",
+        path: "/about",
         exact: true,
         component: function component(props) {
           return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_About__WEBPACK_IMPORTED_MODULE_2__["default"], props);
         }
       }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_6__["Route"], {
-        path: "/Services",
+        path: "/services",
         exact: true,
         component: function component(props) {
           return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Services_Services__WEBPACK_IMPORTED_MODULE_5__["default"], props);
@@ -70395,7 +70395,7 @@ var Services = /*#__PURE__*/function (_React$Component) {
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-lg-4 col-md-6 service_col"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-        href: "Services.jsx"
+        href: "#"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "service text-center trans_200"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -70411,7 +70411,7 @@ var Services = /*#__PURE__*/function (_React$Component) {
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "\u041A\u043E\u043C\u043F\u043B\u0435\u043A\u0441 \u0434\u0438\u0430\u0433\u043D\u043E\u0441\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u043F\u0440\u043E\u0446\u0435\u0434\u0443\u0440, \u0441\u043E\u0441\u0442\u0430\u0432 \u043A\u043E\u0442\u043E\u0440\u044B\u0445 \u043A\u043E\u0440\u0440\u0435\u043A\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044F \u0432 \u0437\u0430\u0432\u0438\u0441\u0438\u043C\u043E\u0441\u0442\u0438 \u043E\u0442 \u0440\u0430\u0437\u043D\u044B\u0445 \u0444\u0430\u043A\u0442\u043E\u0440\u043E\u0432 \u2013 \u0432\u043E\u0437\u0440\u0430\u0441\u0442\u0430, \u043F\u043E\u043B\u0430, \u043D\u0430\u0441\u043B\u0435\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0441\u0442\u0438"))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-lg-4 col-md-6 service_col"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-        href: "Services.jsx"
+        href: "#"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "service text-center trans_200"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -70427,7 +70427,7 @@ var Services = /*#__PURE__*/function (_React$Component) {
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "\u041C\u0435\u0434\u0438\u0446\u0438\u043D\u0441\u043A\u0438\u0439 \u043E\u0441\u043C\u043E\u0442\u0440 \u043D\u0430\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u043D\u044B\u0439 \u043D\u0430 \u0432\u044B\u044F\u0432\u043B\u0435\u043D\u0438\u0435 \u043D\u0430 \u0440\u0430\u043D\u043D\u0438\u0445 \u0441\u0440\u043E\u043A\u0430\u0445 \u0437\u0430\u0431\u043E\u043B\u0435\u0432\u0430\u043D\u0438\u0439 \u0443 \u043A\u043B\u0438\u043D\u0438\u0447\u0435\u0441\u043A\u0438 \u0431\u0435\u0441\u0441\u0438\u043C\u043F\u0442\u043E\u043C\u043D\u044B\u0445 \u043B\u0438\u0446"))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-lg-4 col-md-6 service_col"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-        href: "Services.jsx"
+        href: "#"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "service text-center trans_200"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -70443,7 +70443,7 @@ var Services = /*#__PURE__*/function (_React$Component) {
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "\u041C\u0435\u0434\u0438\u0446\u0438\u043D\u0441\u043A\u0430\u044F \u0434\u0438\u0430\u0433\u043D\u043E\u0441\u0442\u0438\u043A\u0430, \u043D\u0430\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u043D\u0430\u044F \u043D\u0430 \u0432\u044B\u044F\u0432\u043B\u0435\u043D\u0438\u0435 \u043F\u0430\u0442\u043E\u043B\u043E\u0433\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u0438 \u0444\u0438\u0437\u0438\u043E\u043B\u043E\u0433\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u0438\u0437\u043C\u0435\u043D\u0435\u043D\u0438\u0439 \u0432 \u0442\u043A\u0430\u043D\u044F\u0445 \u0438 \u0432\u043D\u0443\u0442\u0440\u0435\u043D\u043D\u0438\u0445 \u043E\u0440\u0433\u0430\u043D\u0430\u0445"))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-lg-4 col-md-6 service_col"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-        href: "Services.jsx"
+        href: "#"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "service text-center trans_200"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -70459,7 +70459,7 @@ var Services = /*#__PURE__*/function (_React$Component) {
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "\u0421\u0442\u043E\u043C\u0430\u0442\u043E\u043B\u043E\u0433\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u043F\u043E\u043C\u043E\u0449\u044C \u043E\u043A\u0430\u0437\u044B\u0432\u0430\u0435\u043C\u043E\u0439 \u043F\u0440\u0438 \u0437\u0430\u0431\u043E\u043B\u0435\u0432\u0430\u043D\u0438\u044F\u0445 \u0438 \u043F\u043E\u0432\u0440\u0435\u0436\u0434\u0435\u043D\u0438\u044F\u0445 \u0437\u0443\u0431\u043E\u0432, \u0447\u0435\u043B\u044E\u0441\u0442\u043D\u043E-\u043B\u0438\u0446\u0435\u0432\u043E\u0439 \u043E\u0431\u043B\u0430\u0441\u0442\u0438 \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u043E\u0440\u0433\u0430\u043D\u043E\u0432 \u043F\u043E\u043B\u043E\u0441\u0442\u0438 \u0440\u0442\u0430"))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-lg-4 col-md-6 service_col"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-        href: "Services.jsx"
+        href: "#"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "service text-center trans_200"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -70475,7 +70475,7 @@ var Services = /*#__PURE__*/function (_React$Component) {
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "\u041C\u0435\u0434\u0438\u0446\u0438\u043D\u0441\u043A\u0430\u044F \u043F\u043E\u043C\u043E\u0449\u044C \u043D\u043E\u0432\u043E\u0440\u043E\u0436\u0434\u0451\u043D\u043D\u044B\u043C, \u0438\u0437\u0443\u0447\u0435\u043D\u0438\u0435 \u0438\u0445 \u0440\u043E\u0441\u0442\u0430 \u0438 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044F, \u0438\u0445 \u0437\u0430\u0431\u043E\u043B\u0435\u0432\u0430\u043D\u0438\u0439 \u0438 \u043F\u0430\u0442\u043E\u043B\u043E\u0433\u0438\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u044F"))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-lg-4 col-md-6 service_col"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-        href: "Services.jsx"
+        href: "#"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "service text-center trans_200"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {

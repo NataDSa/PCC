@@ -15,7 +15,7 @@ class Services extends React.Component {
                         </div>
                         <div className="row services_row">
                             <div className="col-lg-4 col-md-6 service_col">
-                                <a href="Services.jsx">
+                                <a href="#">
                                     <div className="service text-center trans_200">
                                         <div className="service_icon"><img className="svg" src="images/service_1.svg" alt="" /></div>
                                         <div className="service_title trans_200">Полное обследование</div>
@@ -27,7 +27,7 @@ class Services extends React.Component {
                             </div>
 
                             <div className="col-lg-4 col-md-6 service_col">
-                                <a href="Services.jsx">
+                                <a href="#">
                                     <div className="service text-center trans_200">
                                         <div className="service_icon"><img className="svg" src="images/service_2.svg" alt="" /></div>
                                         <div className="service_title trans_200">Скрининговое обследование</div>
@@ -39,7 +39,7 @@ class Services extends React.Component {
                             </div>
 
                             <div className="col-lg-4 col-md-6 service_col">
-                                <a href="Services.jsx">
+                                <a href="#">
                                     <div className="service text-center trans_200">
                                         <div className="service_icon"><img className="svg" src="images/service_3.svg" alt="" /></div>
                                         <div className="service_title trans_200">МРТ</div>
@@ -51,7 +51,7 @@ class Services extends React.Component {
                             </div>
 
                             <div className="col-lg-4 col-md-6 service_col">
-                                <a href="Services.jsx">
+                                <a href="#">
                                     <div className="service text-center trans_200">
                                         <div className="service_icon"><img className="svg" src="images/service_4.svg" alt="" /></div>
                                         <div className="service_title trans_200">Лечение зубов</div>
@@ -63,7 +63,7 @@ class Services extends React.Component {
                             </div>
 
                             <div className="col-lg-4 col-md-6 service_col">
-                                <a href="Services.jsx">
+                                <a href="#">
                                     <div className="service text-center trans_200">
                                         <div className="service_icon"><img className="svg" src="images/service_5.svg" alt="" /></div>
                                         <div className="service_title trans_200">Неонатология</div>
@@ -75,7 +75,7 @@ class Services extends React.Component {
                             </div>
 
                             <div className="col-lg-4 col-md-6 service_col">
-                                <a href="Services.jsx">
+                                <a href="#">
                                     <div className="service text-center trans_200">
                                         <div className="service_icon"><img className="svg" src="images/service_6.svg" alt="" /></div>
                                         <div className="service_title trans_200">Анализы</div>
