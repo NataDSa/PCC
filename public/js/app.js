@@ -70517,8 +70517,8 @@ var Services = /*#__PURE__*/function (_React$Component) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! E:\xampp\htdocs\PCC\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! E:\xampp\htdocs\PCC\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /home/vdubov/Рабочий стол/PCC/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /home/vdubov/Рабочий стол/PCC/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
