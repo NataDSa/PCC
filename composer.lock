@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cbd06ed1e35c8464251a2dc9e1c961be",
+    "content-hash": "21e14d78c98ddb456ba34933b4fb8e8a",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -57,6 +57,57 @@
                 "stack"
             ],
             "time": "2019-12-24T22:41:47+00:00"
+        },
+        {
+            "name": "bissolli/nova-phone-field",
+            "version": "v0.0.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bissolli/nova-phone-field.git",
+                "reference": "29e0e26c17366aa7e4e290c311419735e4b05b94"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bissolli/nova-phone-field/zipball/29e0e26c17366aa7e4e290c311419735e4b05b94",
+                "reference": "29e0e26c17366aa7e4e290c311419735e4b05b94",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.1.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Bissolli\\NovaPhoneField\\FieldServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Bissolli\\NovaPhoneField\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Gustavo Bissolli",
+                    "email": "gustavo.bissolli@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Nova Phone Number field with a dynamic mask based on the country code inserted by the user.",
+            "homepage": "https://github.com/bissolli/nova-phone-field",
+            "keywords": [
+                "input mask",
+                "laravel",
+                "nova",
+                "phone mask"
+            ],
+            "time": "2019-09-08T06:05:47+00:00"
         },
         {
             "name": "brick/math",
@@ -6717,6 +6768,7 @@
             "keywords": [
                 "tokenizer"
             ],
+            "abandoned": true,
             "time": "2019-09-17T06:23:10+00:00"
         },
         {
