@@ -24,7 +24,7 @@ class Patient extends Resource
      *
      * @var string
      */
-    public static $title = 'Номер участка';
+    public static $title = 'Surname';
 
     /**
      * The columns that should be searched.

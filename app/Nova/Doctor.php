@@ -51,7 +51,7 @@ class Doctor extends Resource
             Text::make('Отчество', 'MiddleName'),
             Text::make('Специальность', 'Specialty'),
             Number::make('Номер участка', 'LotNumber'),
-            BelongsToMany::make('Patient', 'Patients'),
+            BelongsToMany::make('Patients'),
             PhoneNumber::make('Номер телефона','Phone')
             ->onlyCountries('RU'),
             Image::make('Фото', 'img'),

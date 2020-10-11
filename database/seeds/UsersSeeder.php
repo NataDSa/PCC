@@ -6,12 +6,12 @@ use App\User;
 class UsersSeeder extends Seeder
 {
     /**
-     * Run the database seeds.
+ * Run the database seeds.
      *
-     * @return void
+ * @return void
      */
-    public function run()
+      public function run()
     {
-        //
+        factory(User::class, 1) -> create();
     }
 }

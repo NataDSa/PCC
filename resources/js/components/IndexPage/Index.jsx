@@ -4,6 +4,7 @@ import About from './About';
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer';
 import Services from '../Services/Services';
+import Contacts from '../Contacts/Contacts';
 import { BrowserHistory, BrowserRouter, Route } from "react-router-dom";
 
 class Index extends React.Component {
@@ -25,6 +26,10 @@ class Index extends React.Component {
                 <Route
                     path='/services' exact
                     component={props => <Services {...props} />}
+                />
+                <Route
+                    path='/contacts' exact
+                    component={props => <Contacts {...props} />}
                 />
                 <Footer />
             </BrowserRouter>

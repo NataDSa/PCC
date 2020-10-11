@@ -4,6 +4,7 @@ import Home from './Home';
 import About from './About';
 import Services from '../Services/Services';
 import Footer from '../Footer/Footer';
+import Contacts from '../Contacts/Contacts';
 import { BrowserRouter, Route } from "react-router-dom";
 
 
@@ -16,6 +17,7 @@ class Index extends React.Component {
                 <Home />
                 <About />
                 <Services />
+                <Contacts />
                 <Footer />
             </div>
         );
